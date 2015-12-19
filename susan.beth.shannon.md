@@ -19,7 +19,7 @@ When you want to start a new trail, simply click on the Trailblazer icon and cli
 
 ![](tb screen2.png)
      
-
+![capture]
 
 #Using the tool 
 
