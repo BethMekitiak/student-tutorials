@@ -19,6 +19,8 @@ When you want to start a new trail, simply click on the Trailblazer icon and cli
 
 ![](tb screen2.png)
      
+![capture](https://cloud.githubusercontent.com/assets/14062071/11915120/371031fc-a666-11e5-9a08-a00066759fd3.PNG)
+
 
 
 #Using the tool 
